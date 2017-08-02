@@ -1,1 +1,1 @@
-# PyCat - Secure Python NetCat implementation
+# PyCat - Secure Python NetCat project
